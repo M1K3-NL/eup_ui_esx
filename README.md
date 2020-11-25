@@ -66,4 +66,5 @@ end)
 I've attached some screenshots with the correct code and place.
 Remember to start EUP **after** es_extented, essentialmode etc because it needs ESX loaded in first!
 
-![afbeelding_2020-11-20_233044|690x168](upload://urj8P51m9pqSe0LXfoC9Ck6VkPj.png) ![notepad++_nFrh0MnKA4|690x174](upload://1IGHk6r1HwwbCGr08pKRdgIrzd4.png)
+![eup-ui first lines](https://forum.cfx.re/uploads/default/original/4X/d/5/5/d5577ccd219b4c5f038bbf33a4000b09f87f7ed5.png)
+![eup_ui esx job restriction](https://forum.cfx.re/uploads/default/original/4X/0/c/0/0c0f63631bbeb8e8ec4a390bcdbb2e9478c2965e.png)
